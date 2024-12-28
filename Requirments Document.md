@@ -1,0 +1,15 @@
+**Requirements Haskellator - Haskell Calculator**
+
+1. Find factors of a given number e.g Factors 10 = [(1,10),(2,5)] - [x]
+2. Find Square of a number e.g Square 2 = 4 - [x]
+3. Modulo Function e.g 1 mod 2 = 0 - [ ] 
+4. Square root e.g squareRoot 4 = 2 - [ ]
+5. To the power of e.g 2 to the power of 3 = 8 - [ ]
+6. Add e.g 1 + 1 = 2 - [ ]
+7. Subtract e.g 1 - 1 = 0 - [ ]
+8. Multiply e.g 1 * 1 = 1  - [ ]
+9. Divide e.g 1 / 1 = 1 - [ ]
+10. binary conversion e.g 5 = 0101 - [ ]
+11. Hexadecimal conversion e.g 11 = B - [ ]
+12. Octal conversion e.g 11 = 13 - [ ]
+13. Takes user Input - [ ]
